@@ -1,5 +1,6 @@
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Nikita-Komintsev&theme=dark&show_icons=true)
+#
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nikita-Komintsev&theme=tokyonight)
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=Nikita-Komintsev&theme=radical&show_icons=true" />
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nikita-Komintsev)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita-Komintsev&theme=radical&langs_count=10&layout=compact" />
+
